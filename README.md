@@ -37,7 +37,7 @@ Create a new Cloud9 workspace for Node.js
 Select "Clone From URL".
 2. In the "Source URL" form input, copy and paste in the following URL:
 
-        https://github.com/jfraboni/simple-node-app.git
+        https://github.com/OperationSpark/simple-node-app.git
 
 3. In the environment selection box, select "Node.js".
 4. Finally, click the green button "Create".
@@ -47,7 +47,7 @@ Nice, you're in business...
 ### On runnable.com:
 Create a new node app, and from the terminal, enter or cut and paste the following commands, then press enter or return:
 
-    git clone https://github.com/jfraboni/simple-node-app.git spark && spark/setup.sh
+    git clone https://github.com/OperationSpark/simple-node-app.git spark && spark/setup.sh
 
 ...some text will fly by as the repository is cloned locally and the project is setup.
 
